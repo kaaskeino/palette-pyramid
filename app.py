@@ -24,9 +24,9 @@ uploaded = st.file_uploader("Image", type=["jpg", "jpeg", "png", "webp"])
 
 col1, col2 = st.columns(2)
 with col1:
-    title = st.text_input("Title", placeholder="The Sick Child")
+    title = st.text_input("Title", placeholder="Skrik")
 with col2:
-    subtitle = st.text_input("Subtitle", placeholder="Edvard Munch, 1896")
+    subtitle = st.text_input("Subtitle", placeholder="Edvard Munch, 1893")
 
 n = st.select_slider(
     "Number of colors",
