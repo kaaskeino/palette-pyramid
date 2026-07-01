@@ -17,7 +17,7 @@ st.set_page_config(
 
 # タイトル
 st.title("🎨 Palette Pyramid")
-st.caption("Upload a painting or artwork to extract its color palette as a triangle pyramid.")
+st.caption("Upload a painting or a photo to extract its color palette as a triangle pyramid.")
 
 # --- 入力フォーム ---
 uploaded = st.file_uploader("Image", type=["jpg", "jpeg", "png", "webp"])
