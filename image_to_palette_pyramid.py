@@ -81,6 +81,23 @@ PIGMENT_NAMES = {
     "Ash Grey": "#A0A29C", "Smoke Grey": "#75787B", "Granite": "#5E6063",
     "Fog Grey": "#C6CBCE", "Driftwood Grey": "#A89F91", "Cool Grey": "#8C92AC",
     "Warm Grey": "#9B9482", "Graphite": "#41424C", "Basalt": "#3A3B3C",
+
+    # --- 明るい青灰色(L=80〜90付近) ---
+    "Ice Grey": "#D7E0E3", "Silver Mist": "#CFDAE0", "Pearl Grey": "#C8D5DC",
+    "Powder Grey": "#BECFD8", "Sky Ash": "#B8C8D2", "Pale Steel": "#C2CDD6",
+
+    # --- 中間青灰色(L=55〜65付近) ---
+    "Blue Ash": "#86909B", "Storm Grey": "#7D8A94", "Rain Grey": "#7A8C96",
+    "Nordic Grey": "#6E8090", "Haze": "#8C9BA5", "Overcast": "#7F8F99",
+
+    # --- 暗い青灰色(L=30〜40付近) ---
+    "Slate Shadow": "#4A5661", "Iron Grey": "#3E4D58", "Dark Slate": "#3A4A54",
+    "Gunmetal": "#2C3539", "Anchor Grey": "#3D4A52",
+
+    # --- 非常に暗い色(L=8〜22付近) ---
+    "Carbon": "#18191C", "Pitch Black": "#1A1A1E", "Jet": "#1F1F23",
+    "Dark Umber": "#2E201E", "Ebony": "#26211F", "Night": "#1C2026",
+    "Void": "#141418",
 }
 
 
