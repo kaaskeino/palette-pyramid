@@ -6,7 +6,7 @@
  
 ## 使い方
  
-1. アプリにアクセス → **(StreamlitのURLをここに貼る)**
+1. アプリにアクセス → **https://palette-pyramid-d7t9eyrdzqwkqgoq4patk8.streamlit.app/**
 2. 画像(絵画・写真など)をアップロード
 3. タイトル・サブタイトルを入力
 4. 「Generate pyramid」をクリック
